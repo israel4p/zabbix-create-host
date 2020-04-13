@@ -1,0 +1,4 @@
+host name 1;10.0.0.1
+host name 2;10.0.0.2
+host name 3;10.0.0.3
+host name 4;10.0.0.4
